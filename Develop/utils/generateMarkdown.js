@@ -6,7 +6,7 @@ function renderLicenseBadge(license) {}
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
     if (license === "None") {
-        return ''
+        return 'No license'
     }
     else if (license === "MIT License") {
         return 'https://www.opensource.org/licenses/MIT'
@@ -32,13 +32,17 @@ ${data.reason}
 ${data.issue} 
 ${data.learning}
 
-## Installation: ${data.install}
+## Installation: 
+${data.install}
 
-## Usage: ${data.usage}
+## Usage: 
+${data.usage}
 
-## Credits: ${data.credits}
+## Credits: 
+${data.credits}
 
-## License: ${renderLicenseLink(data.license)}
+## License: 
+${renderLicenseLink(data.license)}
 
 `;
 }
