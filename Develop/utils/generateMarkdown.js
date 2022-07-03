@@ -28,9 +28,9 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
 ## Description:
-${data.reason} 
-${data.issue} 
-${data.learning}
+- ${data.reason} 
+- ${data.issue} 
+- ${data.learning}
 
 ## Installation: 
 ${data.install}
