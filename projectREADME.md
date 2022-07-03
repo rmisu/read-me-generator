@@ -1,6 +1,6 @@
 # Apple
 
-https://img.shields.io/badge/License-MIT-brightgreen
+![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Description:
 - Banana 
@@ -8,13 +8,13 @@ https://img.shields.io/badge/License-MIT-brightgreen
 - Pizza
 
 ## Installation: 
-Grape
+Grapes
 
 ## Usage: 
-Lobster
+Porcupine
 
 ## Credits: 
-Queen
+Ape
 
 ## License: 
 This project is under: https://www.opensource.org/licenses/MIT
