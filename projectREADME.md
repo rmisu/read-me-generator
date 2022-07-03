@@ -1,19 +1,21 @@
 # Apple
 
+https://img.shields.io/badge/License-MIT-brightgreen
+
 ## Description:
-Banana 
-Orange 
-Grapes
+- Banana 
+- Cookie 
+- Pizza
 
 ## Installation: 
-sdfsdf
+Grape
 
 ## Usage: 
-sdfssg
+Lobster
 
 ## Credits: 
-hrghg
+Queen
 
 ## License: 
-
+This project is under: https://www.opensource.org/licenses/MIT
 
