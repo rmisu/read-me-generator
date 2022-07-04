@@ -5,13 +5,13 @@ function renderLicenseBadge(license) {
         return " ";
     }
     else if (license === "MIT License") { 
-        return "![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)"
+        return "[![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://www.opensource.org/licenses/MIT)"
     }
     else if (license === "Apache License 2.0") {
-        return "!(https://img.shields.io/badge/License-Apache-brightgreen)"
+        return "[![License](https://img.shields.io/badge/License-Apache-brightgreen)](https://opensource.org/licenses/Apache-2.0)"
     }
     else if (license === "GNU GPLv3") {
-        return "![License: GNU GPLv3](https://img.shields.io/badge/License-GNU-brightgreen)"
+        return "[![License](https://img.shields.io/badge/License-GNU-brightgreen)](https://opensource.org/licenses/GPL-3.0)"
     }};
 
 // TODO: Create a function that returns the license link
