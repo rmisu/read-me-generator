@@ -27,7 +27,7 @@ const questions = [
     },
     {   
         type: 'input',
-        name: 'issue',
+        name: 'motivation',
         message: 'What problem does it solve?',  
     },
     {   
@@ -75,7 +75,19 @@ const questions = [
             'None',
         ],
     },
-    //Start of questions section
+    // Start of contributing section 
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'How can other developers contribute?',
+    },
+    // Start of tests section
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'What are some tests that can be run?',
+    },
+    // Start of questions section
     {
         type: 'input',
         name: 'repo',

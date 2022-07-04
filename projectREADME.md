@@ -1,33 +1,41 @@
-# sdfgsdsdf
+# README
 
-[![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://www.opensource.org/licenses/MIT)
+ 
 
 ## Description:
-- gsdfasc 
-- sdfgva 
-- asdgrt
+- HW 
+- Time solving 
+- Coding
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation: 
-hsfgh
+Many
 
 ## Usage: 
-sgvd
+Rather not
 
 ## Credits: 
-adfgsf
+In the readme
 
 ## License: 
-This project is under: https://www.opensource.org/licenses/MIT
+N/A.
+
+## Contributing:
+Coding
+
+## Tests: 
+Try it yourself
 
 ## Questions:
-- https://github.com/aef
-- adfgds@adfg
-- asdfgas
+- https://github.com/rmisu
+- github@gmail.com
+- Directly
 
