@@ -24,3 +24,6 @@ Credits:
 1) https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
 2) https://shields.io/ 
 3) https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+
+Link to video walkthrough:
+1) https://watch.screencastify.com/v/7TpVZNr5n6csTuILR2oA
