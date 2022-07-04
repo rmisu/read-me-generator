@@ -74,7 +74,24 @@ const questions = [
             'GNU GPLv3',
             'None',
         ],
+    },
+    //Start of questions section
+    {
+        type: 'input',
+        name: 'repo',
+        message: 'Enter your GitHub username:',
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Enter your email address:',
+    },
+    {
+        type: 'input',
+        name: 'contact',
+        message: 'Enter how you would like to be contacted with any questions:',
     }
+
 ];
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
