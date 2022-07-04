@@ -8,7 +8,7 @@ function renderLicenseBadge(license) {
         return "![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)"
     }
     else if (license === "Apache License 2.0") {
-        return "![License: Apache](https://img.shields.io/badge/License-Apache-brightgreen)"
+        return "[License: Apache](https://img.shields.io/badge/License-Apache-brightgreen)"
     }
     else if (license === "GNU GPLv3") {
         return "![License: GNU GPLv3](https://img.shields.io/badge/License-GNU-brightgreen)"
@@ -27,7 +27,7 @@ function renderLicenseLink(license) {
         return 'This project is under: https://opensource.org/licenses/Apache-2.0'
     }
     else if (license === "GNU GPLv3") { 
-        return 'This project is under: https://www.gnu.org/licenses/gpl-3.0.html'
+        return 'This project is under: https://opensource.org/licenses/GPL-3.0'
     }
 }
 
