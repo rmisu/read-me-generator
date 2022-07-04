@@ -19,3 +19,8 @@ Users will be able to summarize how other developers can utilize their tool as w
 -Where/how to contact the creator about any questions they may have
 
 I know this tool will be useful for me in my future development projects, and I hope it can prove useful for others as well.
+
+Credits:
+-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+-https://shields.io/
+-https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
