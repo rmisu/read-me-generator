@@ -8,7 +8,7 @@ function renderLicenseBadge(license) {
         return "![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)"
     }
     else if (license === "Apache License 2.0") {
-        return "[License: Apache](https://img.shields.io/badge/License-Apache-brightgreen)"
+        return "!(https://img.shields.io/badge/License-Apache-brightgreen)"
     }
     else if (license === "GNU GPLv3") {
         return "![License: GNU GPLv3](https://img.shields.io/badge/License-GNU-brightgreen)"
